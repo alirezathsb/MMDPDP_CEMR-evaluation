@@ -87,4 +87,3 @@ The figures below show the communication overheads of the setup, registration, u
 ![revocation_communication_costs_cropped](https://github.com/user-attachments/assets/6c426c83-4eed-4246-94a6-f6c615950937)
 ## 7. Tracing phase
 ![trace_communication_costs_cropped](https://github.com/user-attachments/assets/83aea814-c3fc-4815-a685-f63db9ac6808)
-##
