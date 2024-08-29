@@ -8,7 +8,16 @@ The figures below show the communication overheads of the setup, registration, u
 * Varying r
 
 ![registration_communication_costs](https://github.com/user-attachments/assets/f7dc8526-bace-4705-894c-d3878d81da4c)
+## 3. Upload phase
+* Varying n and m
+
+![upload_communication_costs_1](https://github.com/user-attachments/assets/0b3beba7-bae4-4f83-81d3-18f383406651)
+
+* Varying n and s
   
+![upload_communication_costs_2](https://github.com/user-attachments/assets/26639095-fe75-4fd7-adcf-c5e056777726)
+
+
 
 
 
