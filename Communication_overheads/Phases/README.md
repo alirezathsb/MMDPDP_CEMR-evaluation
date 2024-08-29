@@ -32,6 +32,7 @@ The figures below show the communication overheads of the setup, registration, u
 * Varying s and ξ
 
 ![upload_communication_costs_6](https://github.com/user-attachments/assets/0e70083c-71b4-4088-9f87-900b204d3c12)
+## 4. Audit phase
 
 
 
