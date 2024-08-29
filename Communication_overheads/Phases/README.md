@@ -58,10 +58,33 @@ The figures below show the communication overheads of the setup, registration, u
 ![audit_communication_costs_6](https://github.com/user-attachments/assets/5ff47511-faca-4de1-8288-fea94c395b3a)
 ## 5. Update phase
 
+* Varying n and m
 
+![update_communication_costs_1](https://github.com/user-attachments/assets/204a3849-b52c-4864-8e4d-fbafacab0f98)
 
+* Varying n and s
 
+![update_communication_costs_2](https://github.com/user-attachments/assets/3f3f10ea-d25f-42e5-9f55-65a7b92b9548)
 
+* Varying n and ξ
 
+![update_communication_costs_3](https://github.com/user-attachments/assets/22c5aa0a-e3c1-4317-bc65-4213e224bece)
 
+* Varying m and s
 
+![update_communication_costs_4](https://github.com/user-attachments/assets/7812edde-5b7f-498d-b233-f2626a5cf79a)
+
+* Varying m and ξ
+
+![update_communication_costs_5](https://github.com/user-attachments/assets/0a738da7-e2c8-4832-8d98-6d1deb910c73)
+
+* Varying s and ξ
+
+![update_communication_costs_6](https://github.com/user-attachments/assets/7017c009-e783-44dd-ba42-970370a3a4ac)
+## 6. Revocation phase
+* Varying u
+
+![revocation_communication_costs_cropped](https://github.com/user-attachments/assets/6c426c83-4eed-4246-94a6-f6c615950937)
+## 7. Tracing phase
+![trace_communication_costs_cropped](https://github.com/user-attachments/assets/83aea814-c3fc-4815-a685-f63db9ac6808)
+##
