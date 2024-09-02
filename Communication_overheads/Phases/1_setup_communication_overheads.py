@@ -77,4 +77,4 @@ def varying_s_and_ξ():
     ax.grid(True)
     plt.show()
 
-varying_s_and_ξ()
+varying_s_and_ξ()    # Generates a plot for varying s and ξ
