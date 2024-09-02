@@ -11,16 +11,12 @@ The figures below show the communication overheads of the setup, registration, u
 ## 3. Upload phase
 * Varying n and m
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; padding-right: 10px;">
-        <img src="https://github.com/user-attachments/assets/b746678d-bb8b-4853-a102-f5ec206786fd" alt="upload_communication_costs_1" style="width: 100%;">
-        <p style="text-align: center;">Figure 1: Description of the first figure</p>
-    </div>
-    <div style="flex: 1; padding-left: 10px;">
-        <img src="https://github.com/user-attachments/assets/59427e52-b27d-4831-b2ee-ca15efb9b82f" alt="Second Figure" style="width: 100%;">
-        <p style="text-align: center;">Figure 2: Description of the second figure</p>
-    </div>
-</div>
+### Some Title
+
+| ![upload_communication_costs_1](https://github.com/user-attachments/assets/b746678d-bb8b-4853-a102-f5ec206786fd) | ![upload_communication_costs_2](https://github.com/user-attachments/assets/59427e52-b27d-4831-b2ee-ca15efb9b82f) |
+|-------------------------------------------|-------------------------------------------|
+| **Figure 1**: Description of the first figure | **Figure 2**: Description of the second figure |
+
 
 
 ![upload_communication_costs_1](https://github.com/user-attachments/assets/b746678d-bb8b-4853-a102-f5ec206786fd)
