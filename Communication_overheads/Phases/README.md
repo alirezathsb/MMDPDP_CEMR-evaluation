@@ -9,10 +9,8 @@ The figures below show the communication overheads of the setup, registration, u
 ## 3. Upload phase
 
 | ![upload_communication_costs_1](https://github.com/user-attachments/assets/b746678d-bb8b-4853-a102-f5ec206786fd) | ![upload_communication_costs_2](https://github.com/user-attachments/assets/59427e52-b27d-4831-b2ee-ca15efb9b82f) |
-|-------------------------------------------|-------------------------------------------|
 | ![upload_communication_costs_3](https://github.com/user-attachments/assets/f35d28f7-ac91-4504-9558-bddf62e7018b) | ![upload_communication_costs_4](https://github.com/user-attachments/assets/8bc16fa2-9012-43b7-b2a1-6e57ffb959c3) | 
-|-------------------------------------------|-------------------------------------------|
-|  |  | 
+
 
 
 
