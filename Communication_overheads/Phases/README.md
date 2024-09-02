@@ -1,5 +1,19 @@
 # Communication overheads of phases
 The figures below show the communication overheads of the setup, registration, upload, audit, update, revocation, and tracing phases for the MMDPDP_CEMR and other related schemes.
+
+### Some Title
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; padding-right: 10px;">
+        <img src="path_to_your_first_image.png" alt="First Figure" style="width: 100%;">
+        <p style="text-align: center;">Figure 1: Description of the first figure</p>
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <img src="path_to_your_second_image.png" alt="Second Figure" style="width: 100%;">
+        <p style="text-align: center;">Figure 2: Description of the second figure</p>
+    </div>
+</div>
+
 ## 1. Setup phase
 * Varying s and ξ
   
