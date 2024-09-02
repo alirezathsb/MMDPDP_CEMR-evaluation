@@ -17,6 +17,23 @@ The figures below show the communication overheads of the setup, registration, u
 |-------------------------------------------|-------------------------------------------|
 | **Figure 1**: Description of the first figure | **Figure 2**: Description of the second figure |
 
+### Some Title
+
+<table style="border: none;">
+<tr>
+    <td style="border: none;">
+        <img src="path_to_your_first_image.png" alt="Alt text" />
+    </td>
+    <td style="border: none;">
+        <img src="path_to_your_second_image.png" alt="Alt text" />
+    </td>
+</tr>
+</table>
+
+<p><strong>Figure 1:</strong> Description of the first figure</p>
+<p><strong>Figure 2:</strong> Description of the second figure</p>
+
+
 
 
 ![upload_communication_costs_1](https://github.com/user-attachments/assets/b746678d-bb8b-4853-a102-f5ec206786fd)
