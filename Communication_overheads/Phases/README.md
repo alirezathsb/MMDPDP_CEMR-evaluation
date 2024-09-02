@@ -11,7 +11,7 @@ The figures below show the communication overheads of the setup, registration, u
 | ![upload_communication_costs_1](https://github.com/user-attachments/assets/b746678d-bb8b-4853-a102-f5ec206786fd) | ![upload_communication_costs_2](https://github.com/user-attachments/assets/59427e52-b27d-4831-b2ee-ca15efb9b82f) |
 |-------------------------------------------|-------------------------------------------|
 | ![upload_communication_costs_3](https://github.com/user-attachments/assets/f35d28f7-ac91-4504-9558-bddf62e7018b) | ![upload_communication_costs_4](https://github.com/user-attachments/assets/8bc16fa2-9012-43b7-b2a1-6e57ffb959c3) | 
-|  |  | 
+| ![upload_communication_costs_5](https://github.com/user-attachments/assets/fb0a2078-e674-4f82-ad8e-b6fec3bc63d0) | ![upload_communication_costs_6](https://github.com/user-attachments/assets/0e70083c-71b4-4088-9f87-900b204d3c12) | 
 |  |  | 
 |  |  | 
 
@@ -23,11 +23,9 @@ The figures below show the communication overheads of the setup, registration, u
 
 * Varying m and ξ
   
-![upload_communication_costs_5](https://github.com/user-attachments/assets/fb0a2078-e674-4f82-ad8e-b6fec3bc63d0)
 
 * Varying s and ξ
 
-![upload_communication_costs_6](https://github.com/user-attachments/assets/0e70083c-71b4-4088-9f87-900b204d3c12)
 ## 4. Audit phase
 * Varying c and m
 
