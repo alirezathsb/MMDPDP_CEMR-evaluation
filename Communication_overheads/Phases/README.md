@@ -22,10 +22,10 @@ The figures below show the communication overheads of the setup, registration, u
 <table style="border: none;">
 <tr>
     <td style="border: none;">
-        <img src="path_to_your_first_image.png" alt="Alt text" />
+        <img src="https://github.com/user-attachments/assets/b746678d-bb8b-4853-a102-f5ec206786fd" alt="Alt text" />
     </td>
     <td style="border: none;">
-        <img src="path_to_your_second_image.png" alt="Alt text" />
+        <img src="https://github.com/user-attachments/assets/59427e52-b27d-4831-b2ee-ca15efb9b82f" alt="Alt text" />
     </td>
 </tr>
 </table>
