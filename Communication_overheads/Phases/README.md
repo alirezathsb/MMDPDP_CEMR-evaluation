@@ -19,19 +19,17 @@ The figures below show the communication overheads of the setup, registration, u
 
 ### Some Title
 
-<table style="border: none;">
-<tr>
-    <td style="border: none;">
-        <img src="https://github.com/user-attachments/assets/b746678d-bb8b-4853-a102-f5ec206786fd" alt="Alt text" />
-    </td>
-    <td style="border: none;">
-        <img src="https://github.com/user-attachments/assets/59427e52-b27d-4831-b2ee-ca15efb9b82f" alt="Alt text" />
-    </td>
-</tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/b746678d-bb8b-4853-a102-f5ec206786fd" alt="First Figure" style="width:100%; border: none; box-shadow: none;">
+        <p><strong>Figure 1:</strong> Description of the first figure</p>
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/59427e52-b27d-4831-b2ee-ca15efb9b82f" alt="Second Figure" style="width:100%; border: none; box-shadow: none;">
+        <p><strong>Figure 2:</strong> Description of the second figure</p>
+    </div>
+</div>
 
-<p><strong>Figure 1:</strong> Description of the first figure</p>
-<p><strong>Figure 2:</strong> Description of the second figure</p>
 
 
 
