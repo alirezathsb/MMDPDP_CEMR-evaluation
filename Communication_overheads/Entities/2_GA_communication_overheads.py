@@ -200,6 +200,106 @@ def varying_u_and_ξ():
                        'Communication cost for GA (Varying $u$ and $ξ$)', 
                        {'r': 3, 'n': 3, 'c': 3, 'm': 3, 's': 3})
  
+def varying_n_and_c():
+    # Parameters for GA
+    n_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+    c_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+
+    varying_parameters(n_values, c_values, 'The block number ($n$)'
+                       , 'The number of challenge blocks ($c$)', 
+                       'Communication cost for GA (Varying $n$ and $c$)', 
+                       {'r': 3, 'u': 3, 'm': 3, 's': 3, 'ξ': 3})
+
+def varying_n_and_m():
+    # Parameters for GA
+    n_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+    m_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+
+    varying_parameters(n_values, m_values, 'The block number ($n$)'
+                       , 'The copy number ($m$)', 
+                       'Communication cost for GA (Varying $n$ and $m$)', 
+                       {'r': 3, 'u': 3, 'c': 3, 's': 3, 'ξ': 3})
+
+def varying_n_and_s():
+    # Parameters for GA
+    n_values = list(range(0, 30, 3))  # From 0 to 30 with step 3
+    s_values = list(range(0, 30, 3))  # From 0 to 30 with step 3
+
+    varying_parameters(n_values, s_values, 'The block number ($n$)'
+                       , 'The number of sectors in each block ($s$)', 
+                       'Communication cost for GA (Varying $n$ and $s$)', 
+                       {'r': 3, 'u': 3, 'c': 3, 'm': 3, 'ξ': 3})
+        
+def varying_n_and_ξ():
+    # Parameters for GA
+    n_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+    ξ_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+
+    varying_parameters(n_values, ξ_values, 'The block number ($n$)'
+                       , 'The number of CSPs ($ξ$)', 
+                       'Communication cost for GA (Varying $n$ and $ξ$)', 
+                       {'r': 3, 'u': 3, 'c': 3, 'm': 3, 's': 3})
+    
+def varying_c_and_m():
+    # Parameters for GA
+    c_values = list(range(0, 30, 3))  # From 0 to 30 with step 3
+    m_values = list(range(0, 30, 3))  # From 0 to 30 with step 3
+
+    varying_parameters(c_values, m_values, 'The number of challenge blocks ($c$)'
+                       , 'The copy number ($m$)', 
+                       'Communication cost for GA (Varying $c$ and $m$)', 
+                       {'r': 3, 'u': 3, 'n': 3, 's': 3, 'ξ': 3})
+    
+def varying_c_and_s():
+    # Parameters for GA
+    c_values = list(range(0, 50, 5))  # From 0 to 50 with step 5
+    s_values = list(range(0, 50, 5))  # From 0 to 50 with step 5
+
+    varying_parameters(c_values, s_values, 'The number of challenge blocks ($c$)'
+                       , 'The number of sectors in each block ($s$)', 
+                       'Communication cost for GA (Varying $c$ and $s$)', 
+                       {'r': 3, 'u': 3, 'n': 3, 'm': 3, 'ξ': 3})
+    
+def varying_c_and_ξ():
+    # Parameters for GA
+    c_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+    ξ_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+
+    varying_parameters(c_values, ξ_values, 'The number of challenge blocks ($c$)'
+                       , 'The number of CSPs ($ξ$)', 
+                       'Communication cost for GA (Varying $c$ and $ξ$)', 
+                       {'r': 3, 'u': 3, 'n': 3, 'm': 3, 's': 3})
+
+def varying_m_and_s():
+    # Parameters for GA
+    m_values = list(range(0, 30, 3))  # From 0 to 30 with step 3
+    s_values = list(range(0, 30, 3))  # From 0 to 30 with step 3
+
+    varying_parameters(m_values, s_values, 'The copy number ($m$)'
+                       , 'The number of sectors in each block ($s$)', 
+                       'Communication cost for GA (Varying $m$ and $s$)', 
+                       {'r': 3, 'u': 3, 'n': 3, 'c': 3, 'ξ': 3})
+        
+def varying_m_and_ξ():
+    # Parameters for GA
+    m_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+    ξ_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+
+    varying_parameters(m_values, ξ_values, 'The copy number ($m$)'
+                       , 'The number of CSPs ($ξ$)', 
+                       'Communication cost for GA (Varying $m$ and $ξ$)', 
+                       {'r': 3, 'u': 3, 'n': 3, 'c': 3, 's': 3})
+    
+def varying_s_and_ξ():
+    # Parameters for GA
+    s_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+    ξ_values = list(range(0, 10, 1))  # From 0 to 10 with step 1
+
+    varying_parameters(s_values, ξ_values, 'The number of sectors in each block ($s$)'
+                       , 'The number of CSPs ($ξ$)', 
+                       'Communication cost for GA (Varying $s$ and $ξ$)', 
+                       {'r': 3, 'u': 3, 'n': 3, 'c': 3, 'm': 3})
+    
 varying_r_and_u()       # Generates a plot for varying r and u
 varying_r_and_n()       # Generates a plot for varying r and n
 varying_r_and_c()       # Generates a plot for varying r and c
@@ -211,3 +311,13 @@ varying_u_and_c()       # Generates a plot for varying u and c
 varying_u_and_m()       # Generates a plot for varying u and m
 varying_u_and_s()       # Generates a plot for varying u and s
 varying_u_and_ξ()       # Generates a plot for varying u and ξ
+varying_n_and_c()       # Generates a plot for varying n and c
+varying_n_and_m()       # Generates a plot for varying n and m
+varying_n_and_s()       # Generates a plot for varying n and s
+varying_n_and_ξ()       # Generates a plot for varying n and ξ
+varying_c_and_m()       # Generates a plot for varying c and m
+varying_c_and_s()       # Generates a plot for varying c and s
+varying_c_and_ξ()       # Generates a plot for varying c and ξ
+varying_m_and_s()       # Generates a plot for varying m and s
+varying_m_and_ξ()       # Generates a plot for varying m and ξ
+varying_s_and_ξ()       # Generates a plot for varying s and ξ
