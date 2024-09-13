@@ -21,7 +21,6 @@ The figures below show the PKG, GA, GU, CSP, and TPA communication overheads for
 
 ## 3. GU
 
-
 ## 4. CSP
 
 
