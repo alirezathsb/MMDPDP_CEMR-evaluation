@@ -1,4 +1,4 @@
-![tpa_communication_costs_1_4_cropped](https://github.com/user-attachments/assets/6b20cc61-c326-46bc-8181-5d2c2666ad65)# Communication overheads of entities
+# Communication overheads of entities
 The figures below show the PKG, GA, GU, CSP, and TPA communication overheads for the MMDPDP_CEMR and other related schemes.
 
 ## 1. PKG
