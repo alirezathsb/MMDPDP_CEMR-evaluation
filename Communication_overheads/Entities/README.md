@@ -1,4 +1,4 @@
-# Communication overheads of entities
+![tpa_communication_costs_1_4_cropped](https://github.com/user-attachments/assets/6b20cc61-c326-46bc-8181-5d2c2666ad65)# Communication overheads of entities
 The figures below show the PKG, GA, GU, CSP, and TPA communication overheads for the MMDPDP_CEMR and other related schemes.
 
 ## 1. PKG
@@ -21,8 +21,20 @@ The figures below show the PKG, GA, GU, CSP, and TPA communication overheads for
 
 ## 3. GU
 
+| ![gu_communication_costs_1](https://github.com/user-attachments/assets/dd6eb174-f69f-4989-a852-7614f51973a6) | ![gu_communication_costs_2](https://github.com/user-attachments/assets/ee873bda-9963-43e3-98db-7bad31acc08b) |
+|-------------------------------------------|-------------------------------------------|
+| ![gu_communication_costs_3](https://github.com/user-attachments/assets/9dadaab2-2dfd-457c-ac1e-5fb08d46403d) | ![gu_communication_costs_4](https://github.com/user-attachments/assets/7c0849b7-0c02-4121-bbe4-c3308c1a5eb9) | 
+| ![gu_communication_costs_5](https://github.com/user-attachments/assets/c3023332-4d07-400e-8819-de2ca03577de) | ![gu_communication_costs_6](https://github.com/user-attachments/assets/18b30e8e-ba83-4be1-8dd1-6a44c83792e6) | 
+
 ## 4. CSP
 
+| ![csp_communication_costs_1](https://github.com/user-attachments/assets/2a338d08-c39a-4e20-8956-34ffa3eb2b7f) | ![csp_communication_costs_2](https://github.com/user-attachments/assets/90c9edfa-e3a6-4392-b7d4-3d6a67b443fc) |
+|-------------------------------------------|-------------------------------------------|
+| ![csp_communication_costs_3](https://github.com/user-attachments/assets/570b1391-b3bb-4870-af31-061ff408a180) | ![csp_communication_costs_4](https://github.com/user-attachments/assets/e462606a-47dd-46d9-bf69-d6b6b259e340) | 
+| ![csp_communication_costs_5](https://github.com/user-attachments/assets/f4a9a779-c967-4e35-9991-b29b33f9f6ac) | ![csp_communication_costs_6](https://github.com/user-attachments/assets/e3d2bf55-9df3-4764-a2a2-5c3a2544f49a) | 
 
 ## 5. TPA
 
+| ![tpa_communication_costs_1](https://github.com/user-attachments/assets/8ce4d677-bda9-4b08-a14d-3b47b4af7ee8) | ![tpa_communication_costs_2](https://github.com/user-attachments/assets/1a30643c-b631-4a95-a856-498bc00c9f08) |
+|-------------------------------------------|-------------------------------------------|
+| ![tpa_communication_costs_3](https://github.com/user-attachments/assets/fb9b84cf-dd0d-470c-b09c-b3ef305d481d) |  | 
