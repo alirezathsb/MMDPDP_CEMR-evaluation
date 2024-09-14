@@ -1,5 +1,5 @@
 # Computation overheads of phases
-The figures below show the Computation overheads of the setup, registration, upload, audit, update, revocation, and tracing phases for the MMDPDP_CEMR and other related schemes.
+The figures below show the computation overheads of the setup, registration, upload, audit, update, revocation, and tracing phases for the MMDPDP_CEMR and other related schemes.
 ## 1. Setup phase  
 
 ![setup_computation_costs](https://github.com/user-attachments/assets/2b38267e-1f13-4199-98aa-269e636f431c)
