@@ -69,7 +69,7 @@ def varying_parameters(x_values, y_values, x_label, y_label, title, varying_para
                 ξ=params.get('The number of CSPs ($ξ$)', 3)
             )
             
-            # Compute the costs for update phase
+            # Compute the costs for audit phase
             mw2023_costs[i, j] = mw2023_cost / 1000             # Convert bits to kilobits
             mw2019_costs[i, j] = mw2019_cost / 1000             # Convert bits to kilobits
             mc2023_costs[i, j] = mc2023_cost / 1000             # Convert bits to kilobits
