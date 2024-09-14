@@ -1,4 +1,4 @@
-![csp_storage_costs_4_2_cropped](https://github.com/user-attachments/assets/fbc57d53-ff13-489e-a2cc-118b1c41e3d4)# Storage overheads of entities
+# Storage overheads of entities
 The figures below show the PKG, GU, GA, and CSP storage overheads for the MMDPDP_CEMR and other related schemes.
 
 ## 1. PKG
